@@ -25,10 +25,6 @@ Também me interesso muito em aprender sobre a área de Dados, Machine Learning 
     - Java
     - Javascript
 
-![Samael GitHub stats](https://github-readme-stats.vercel.app/api?username=SamaelPicoli777&show_icons=true&theme=white) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamaelPicoli777)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que eu utilizo no meu dia a dia:
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

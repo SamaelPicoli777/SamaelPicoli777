@@ -12,13 +12,13 @@ Formado em **Análise e Desenvolvimento de Sistemas** pelo **IFRS – Campus Ser
 
 ## 🧠 Princípios e Arquitetura  
 
-- SOLID (ênfase em SRP e DIP)  
-- Clean Code e padronização semântica  
+- SOLID
+- Padronização de código  
 - Page Object Model (POM) para automações web  
 - Separação por camadas (domínio, serviço e infraestrutura)  
 - Tratamento de erros orientado a reprocessamento  
-- Execuções idempotentes  
-- Estruturação de projetos para múltiplos fluxos  
+- Execuções assíncronas  
+- Estruturação de projetos para múltiplos fluxos através de design patterns
 - Tipagem estática gradual  
 - Testes unitários para regras de negócio  
 - Code review e versionamento orientado a padrão de time  
